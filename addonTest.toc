@@ -1,4 +1,4 @@
 ## Interface: 80200
 ## Title: addonTestRepo
 ## Author: opussf
-## Version: 0.4
+## Version: 0.5
